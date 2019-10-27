@@ -1,0 +1,20 @@
+
+-- 15/03/2018 --
+eSAAMP has basic support for login  users need to be created as self registering is not required.
+
+Implements Passport to provide API authentication. Sewssion authentication used for web requests.
+
+Added a basic page for displaying Slings table. 
+Table supports ordered sorters with order indicators (*)
+Table also supports basic Filtering
+
+Next Steps: 
+- Keep developing CRUD table to add Modal form support
+- Update Schema to support multiple clients 
+- Continue to migrate original eSAAMP functionality over to eSAAMP2
+- Setup eSAMMP domain and staging server
+------------------------------------------
+
+SETUP LINODE server "merciful-sun" via forge
+Sudo Password: X3TMFbYC3deSE8FMIB9Z
+Database Password: EiNwwMUGhDRAhYkHLYvk
